@@ -1,5 +1,8 @@
-:root{
---cor-fundo:#00008B;
---cor-titulo:#006400;
---cor-texto:
-}s
+body {
+    background-color:green;
+    color: yellow;
+}
+img {
+  max-width: 65%;
+  height:auto;
+}
